@@ -1,0 +1,9 @@
+﻿  asst2.cpp
+d:\dropbox\dropbox\tlcm\kaist\18 spring\introduction to computer graphics\lab4\hw3\asst2.cpp(35): warning C4996: 'std::tr1': warning STL4002: The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\memory(3081): note: 'std::tr1' 선언을 참조하십시오.
+  ppm.cpp
+  glsupport.cpp
+d:\dropbox\dropbox\tlcm\kaist\18 spring\introduction to computer graphics\lab4\hw3\glsupport.cpp(58): warning C4838: 'unsigned int'에서 'const GLint'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+glsupport.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  asst2.vcxproj -> D:\Dropbox\Dropbox\Tlcm\KAIST\18 spring\Introduction to Computer Graphics\lab4\hw3\.\Debug\asst2.exe
